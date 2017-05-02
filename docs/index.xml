@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on FORWARDS</title>
+    <link>//forwards.github.io/docs/</link>
+    <description>Recent content in Docs on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Forwards. Powered by [blogdown](https://github.com/rstudio/blogdown)/[Hugo](//gohugo.io). Theme based on Icarus by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Sat, 09 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//forwards.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recommendations to increase the Participation of Women at useR! Conferences</title>
+      <link>//forwards.github.io/docs/recommendations_user/</link>
+      <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//forwards.github.io/docs/recommendations_user/</guid>
+      <description>Recommendations The following recommendations are made for future useR! conferences, as achievable actions to promote the inclusion of women.
+Invited Speakers Since 2014, 2&amp;frasl;6 invited speakers have been women. Although a 50:50 gender split is something to strive for, we are aware that this would be a big jump and the focus should be on sustaining the current level in the medium term. The step up in 2014 has already helped to raise the profile of women in the R community.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//forwards.github.io/docs/nonresponse_user2016_survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//forwards.github.io/docs/nonresponse_user2016_survey/</guid>
+      <description>Non-response in useR! 2016 Survey       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+  </channel>
+</rss>

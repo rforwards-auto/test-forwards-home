@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Action on FORWARDS</title>
+    <link>//forwards.github.io/tags/action/</link>
+    <description>Recent content in Action on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Forwards. Powered by [blogdown](https://github.com/rstudio/blogdown)/[Hugo](//gohugo.io). Theme based on Icarus by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Fri, 13 Jan 2017 13:07:01 +0000</lastBuildDate>
+    
+	<atom:link href="//forwards.github.io/tags/action/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Call to Join Forwards</title>
+      <link>//forwards.github.io/blog/2017/01/13/call-to-join-forwards/</link>
+      <pubDate>Fri, 13 Jan 2017 13:07:01 +0000</pubDate>
+      
+      <guid>//forwards.github.io/blog/2017/01/13/call-to-join-forwards/</guid>
+      <description>Forwards, the R Foundation taskforce on women and other under-represented groups, is seeking to address issues affecting under-represented groups in general as it works to broaden the participation of women in the R community.
+In order to adequately address such issues, we would like to widen the diversity of the taskforce itself. Accordingly, we are inviting people who are part of under-represented groups - be they groups identified by race, gender, sexuality, class or disability - to join us.</description>
+    </item>
+    
+  </channel>
+</rss>

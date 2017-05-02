@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interviews on FORWARDS</title>
+    <link>//forwards.github.io/categories/interviews/</link>
+    <description>Recent content in Interviews on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Forwards. Powered by [blogdown](https://github.com/rstudio/blogdown)/[Hugo](//gohugo.io). Theme based on Icarus by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Tue, 07 Feb 2017 19:26:36 +0000</lastBuildDate>
+    
+	<atom:link href="//forwards.github.io/categories/interviews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emily Robinson, from Social Scientist to Data Scientist</title>
+      <link>//forwards.github.io/blog/2017/02/07/emily-robinson-from-social-scientist-to-data-scientist/</link>
+      <pubDate>Tue, 07 Feb 2017 19:26:36 +0000</pubDate>
+      
+      <guid>//forwards.github.io/blog/2017/02/07/emily-robinson-from-social-scientist-to-data-scientist/</guid>
+      <description>&lt;p&gt;Maëlle Salmon, a Forwards collaborator, got the chance to interview Emily Robinson, who recently became a data analyst at Etsy. A very inspiring R-Lady!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

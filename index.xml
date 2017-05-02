@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FORWARDS</title>
+    <link>//forwards.github.io/</link>
+    <description>Recent content on FORWARDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Forwards. Powered by [blogdown](https://github.com/rstudio/blogdown)/[Hugo](//gohugo.io). Theme based on Icarus by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Sat, 11 Mar 2017 16:37:43 +0000</lastBuildDate>
+    
+	<atom:link href="//forwards.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>useRs Relationship with R</title>
+      <link>//forwards.github.io/blog/2017/03/11/users-relationship-with-r/</link>
+      <pubDate>Sat, 11 Mar 2017 16:37:43 +0000</pubDate>
+      
+      <guid>//forwards.github.io/blog/2017/03/11/users-relationship-with-r/</guid>
+      <description>In our first post on the useR! 2016 survey we discussed the responses from the demographic section, finding in particular that:
+ The useR! 2016 attendees were predominately men, typically under 40, White/Caucasian and employed full-time. Women attendees tended to be younger and less advanced in their careers. Non-Asian minority races and LGBT individuals were under-represented. Approximately a quarter of attendees were caregivers.  We now turn to look at useRs relationship with R: what experience do they have in using R and what do they think of R?</description>
+    </item>
+    
+    <item>
+      <title>Emily Robinson, from Social Scientist to Data Scientist</title>
+      <link>//forwards.github.io/blog/2017/02/07/emily-robinson-from-social-scientist-to-data-scientist/</link>
+      <pubDate>Tue, 07 Feb 2017 19:26:36 +0000</pubDate>
+      
+      <guid>//forwards.github.io/blog/2017/02/07/emily-robinson-from-social-scientist-to-data-scientist/</guid>
+      <description>&lt;p&gt;Maëlle Salmon, a Forwards collaborator, got the chance to interview Emily Robinson, who recently became a data analyst at Etsy. A very inspiring R-Lady!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>//forwards.github.io/links/</link>
+      <pubDate>Sat, 14 Jan 2017 16:52:32 +0000</pubDate>
+      
+      <guid>//forwards.github.io/links/</guid>
+      <description> Blog aggregators  R Weekly R-bloggers   </description>
+    </item>
+    
+    <item>
+      <title>Call to Join Forwards</title>
+      <link>//forwards.github.io/blog/2017/01/13/call-to-join-forwards/</link>
+      <pubDate>Fri, 13 Jan 2017 13:07:01 +0000</pubDate>
+      
+      <guid>//forwards.github.io/blog/2017/01/13/call-to-join-forwards/</guid>
+      <description>Forwards, the R Foundation taskforce on women and other under-represented groups, is seeking to address issues affecting under-represented groups in general as it works to broaden the participation of women in the R community.
+In order to adequately address such issues, we would like to widen the diversity of the taskforce itself. Accordingly, we are inviting people who are part of under-represented groups - be they groups identified by race, gender, sexuality, class or disability - to join us.</description>
+    </item>
+    
+    <item>
+      <title>Mapping useRs</title>
+      <link>//forwards.github.io/blog/2017/01/13/mapping-users/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//forwards.github.io/blog/2017/01/13/mapping-users/</guid>
+      <description>Every year, hundreds of R programmers descend on a host city and spend three or four days sharing work, collaborating on projects and making new contacts - the useR! conference, this year held in Stanford, CA. useR! offers a wonderful opportunity to map a subset of the language&amp;rsquo;s most active users and the Women in R Task Force took this opportunity to survey attendees and find out their backgrounds, experiences and interests, in the hope that it will help us to get a better understanding of how to make the R community a more inclusive environment.</description>
+    </item>
+    
+    <item>
+      <title>Recommendations to increase the Participation of Women at useR! Conferences</title>
+      <link>//forwards.github.io/docs/recommendations_user/</link>
+      <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//forwards.github.io/docs/recommendations_user/</guid>
+      <description>Recommendations The following recommendations are made for future useR! conferences, as achievable actions to promote the inclusion of women.
+Invited Speakers Since 2014, 2&amp;frasl;6 invited speakers have been women. Although a 50:50 gender split is something to strive for, we are aware that this would be a big jump and the focus should be on sustaining the current level in the medium term. The step up in 2014 has already helped to raise the profile of women in the R community.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//forwards.github.io/docs/nonresponse_user2016_survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//forwards.github.io/docs/nonresponse_user2016_survey/</guid>
+      <description>Non-response in useR! 2016 Survey       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//forwards.github.io/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//forwards.github.io/index/</guid>
+      <description>Mission Leading the R community forwards in widening the participation of women and other under-represented groups.
+Find out more about the task force.
+ here as markdown href don&#39;t seem to work in div -- News 2017/01/13 Open call to join the taskforce, further details.
+2016/11/13 Heather Turner’s presentation from eRum 2016, “Addressing the Gender Gap in the R Project”, now on &amp;lt;a href=https://www.youtube.com/watch?v=fp6JY7cirww&amp;amp;list=PLCsJUtCRSFbejqCqAURNVOFFpoDCMeuO5&amp;gt;YouTube [slides].
+2016/11/04 Jenny Bryan, Di Cook and Julie Josse are elected as ordinary members of the R Foundation, bringing the total number of women to 5 out of 37.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>//forwards.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//forwards.github.io/about/</guid>
+      <description>Background The task force was set up by the R Foundation in December 2015 to address the underrepresentation of women among contributors to the R project and in the R community more generally.
+The members of the task force were invited to participate based on their interest in addressing the gender imbalance and their contributions in this area, as well as to give a reasonable balance of different genders, different geographic regions, different work contexts, different career stages and different aspects of the R project (e.</description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>//forwards.github.io/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//forwards.github.io/data/</guid>
+      <description>Overview The taskforce collates data on the gender breakdown and other demographics of contributors to the R project, particularly R Foundation supported activities. For many of the gender summaries the gender is predicted based on first name, giving a rough approximation that assumes binary gender categories.
+Packages Maintainer Gender 2016 CRAN maintainers as of March 2016 were processed with the genderizer package, which utilizes the https://genderize.io/ API to predict gender from first names, with an associated probability that the prediction is correct.</description>
+    </item>
+    
+  </channel>
+</rss>
